@@ -1,5 +1,5 @@
 /*
-MOPA Wars Online
+MOPA Wars
 Produtores: Arthur Dionizio, Arthur Ruan, Samuel Laerte, Thiago Palacios.
 versão alpha: 0.6
 */
